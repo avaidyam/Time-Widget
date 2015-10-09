@@ -1,0 +1,4 @@
+/* Display name and description for this extension. */
+"CFBundleDisplayName" = "Time";
+"com.apple.notificationcenter.widget.description" = "Display the current system time.";
+
